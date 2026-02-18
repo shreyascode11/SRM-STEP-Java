@@ -10,7 +10,6 @@ public class UC5_BannerApp {
                 " *   *  *   *   *           * ",
                 "  ***    ***    *       ***** "
         };
-
         for (String line : lines) {
             System.out.println(line);
         }
